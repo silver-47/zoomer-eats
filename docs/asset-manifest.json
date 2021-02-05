@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zoomer-eats/static/css/main.6b263bed.chunk.css",
+    "main.js": "/zoomer-eats/static/js/main.9ce42dc2.chunk.js",
+    "main.js.map": "/zoomer-eats/static/js/main.9ce42dc2.chunk.js.map",
+    "runtime-main.js": "/zoomer-eats/static/js/runtime-main.e5d6c7d2.js",
+    "runtime-main.js.map": "/zoomer-eats/static/js/runtime-main.e5d6c7d2.js.map",
+    "static/js/2.f1e6ebfe.chunk.js": "/zoomer-eats/static/js/2.f1e6ebfe.chunk.js",
+    "static/js/2.f1e6ebfe.chunk.js.map": "/zoomer-eats/static/js/2.f1e6ebfe.chunk.js.map",
+    "index.html": "/zoomer-eats/index.html",
+    "static/css/main.6b263bed.chunk.css.map": "/zoomer-eats/static/css/main.6b263bed.chunk.css.map",
+    "static/js/2.f1e6ebfe.chunk.js.LICENSE.txt": "/zoomer-eats/static/js/2.f1e6ebfe.chunk.js.LICENSE.txt",
+    "static/media/filter.2970e523.svg": "/zoomer-eats/static/media/filter.2970e523.svg",
+    "static/media/outlets.fbad31a7.svg": "/zoomer-eats/static/media/outlets.fbad31a7.svg",
+    "static/media/relevance.b7460081.svg": "/zoomer-eats/static/media/relevance.b7460081.svg",
+    "static/media/star.8f5c6246.svg": "/zoomer-eats/static/media/star.8f5c6246.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d6c7d2.js",
+    "static/js/2.f1e6ebfe.chunk.js",
+    "static/css/main.6b263bed.chunk.css",
+    "static/js/main.9ce42dc2.chunk.js"
+  ]
+}

@@ -1,0 +1,42 @@
+.Toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #dbdbdb;
+  text-transform: uppercase;
+  color: #b8b8b6;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.Toolbar img {
+  height: 1rem;
+}
+
+@media only screen and (max-width: 720px) {
+  .Toolbar {
+    font-size: 1.25rem;
+  }
+  .Toolbar img {
+    height: 0.85rem;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .Toolbar {
+    font-size: 1rem;
+  }
+  .Toolbar img {
+    height: 0.75rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .Toolbar {
+    font-size: 0.825rem;
+  }
+  .Toolbar img {
+    height: 0.5rem;
+  }
+}
